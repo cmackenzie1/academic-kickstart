@@ -15,21 +15,56 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Python + Django"
+  description = ""
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java + Spring"
+  description = ""  
 
+[[feature]]
+  icon = "aws"
+  icon_pack = "fab"
+  name = "Amazon Web Services"
+  description = "" 
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+  description = ""
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = ""  
+
+[[feature]]
+  icon = "jenkins"
+  icon_pack = "fab"
+  name = "Jenkins"
+  description = ""  
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fa"
+  name = "PostgreSQL | MySQL"
+  description = "" 
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fa"
+  name = "ElasticSearch | MongoDB"
+  description = ""  
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "GitHub"
+  description = ""  
 +++
