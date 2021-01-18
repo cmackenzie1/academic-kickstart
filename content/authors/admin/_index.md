@@ -64,7 +64,7 @@ email: ""
 highlight_name: false
 ---
 
-Hey, I am Cole, a software engineering intern at Intuit. I will be completeing my BSc. in Fall 2019. 
+Hey, I am Cole, a Software Engineer at Intuit. 
 My interests include information retrieval, cloud computing, big data, backend development, and service reliability. 
 I currently have 2 years of work experience at Intuit across 3 different teams. I have helped develop backend services and tools for 
 Optical Character Recognition, Call Center Technology, and Data Lake processing.

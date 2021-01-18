@@ -16,59 +16,51 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-[[feature]]
-icon = "python"
-icon_pack = "fab"
-name = "Python + Django"
-description = ""
+- icon: "python"
+  icon_pack: "fab"
+  name: "Python + Django"
+  description: ""
+  
+- icon: "java"
+  icon_pack: "fab"
+  name: "Java + Spring"
+  description: ""
 
-[[feature]]
-icon = "java"
-icon_pack = "fab"
-name = "Java + Spring"
-description = ""
+- icon: "aws"
+  icon_pack: "fab"
+  name: "Amazon Web Services"
+  description: ""
 
-[[feature]]
-icon = "aws"
-icon_pack = "fab"
-name = "Amazon Web Services"
-description = ""
+- icon: "linux"
+  icon_pack: "fab"
+  name: "Linux"
+  description: ""
 
-[[feature]]
-icon = "linux"
-icon_pack = "fab"
-name = "Linux"
-description = ""
+- icon: "docker"
+  icon_pack: "fab"
+  name: "Docker"
+  description: ""
 
-[[feature]]
-icon = "docker"
-icon_pack = "fab"
-name = "Docker"
-description = ""
+- icon: "jenkins"
+  icon_pack: "fab"
+  name: "Jenkins"
+  description: ""
 
-[[feature]]
-icon = "jenkins"
-icon_pack = "fab"
-name = "Jenkins"
-description = ""
+- icon: "database"
+  icon_pack: "fa"
+  name: "PostgreSQL | MySQL"
+  description: ""
 
-[[feature]]
-icon = "database"
-icon_pack = "fa"
-name = "PostgreSQL | MySQL"
-description = ""
+- icon: "database"
+  icon_pack: "fa"
+  name: "ElasticSearch | MongoDB"
+  description: ""
 
-[[feature]]
-icon = "database"
-icon_pack = "fa"
-name = "ElasticSearch | MongoDB"
-description = ""
+- icon: "github"
+  icon_pack: "fab"
+  name: "GitHub"
+  description: ""
 
-[[feature]]
-icon = "github"
-icon_pack = "fab"
-name = "GitHub"
-description = ""
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

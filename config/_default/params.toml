@@ -57,7 +57,7 @@ description = ""
 # Enable source code highlighting? true/false
 # Documentation: https://wowchemy.com/docs/writing-markdown-latex/#highlighting-options
 highlight = true
-highlight_languages = ["python", "go", "bash", "java", "scala"]  # Add support for highlighting additional languages
+highlight_languages = ["python", "go", "bash", "java", "scala", "kotlin"]  # Add support for highlighting additional languages
 highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
@@ -90,7 +90,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "colemackenzie1@gmail.com"
 phone = ""
-address = "Sunnyvale, California"
+address = {  }
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
