@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: Software Developer
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
 - name: Intuit
   url: "https://intuit.com"
@@ -20,6 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Software developer at Intuit
 
+# Interests to show in About widget
 interests:
 - Cloud Computing
 - Containers
@@ -29,6 +30,7 @@ interests:
 - Metrics
 - Timeseries
 
+# Education to show in About widget
 education:
   courses:
   - course: BSc in Computing Science
@@ -36,16 +38,19 @@ education:
     year: 2019
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'
 - icon: github
   icon_pack: fab
   link: https://github.com/cmackenzie1
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/cole-mackenzie
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -54,10 +59,9 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-user_groups: []
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 ---
 
 Hey, I am Cole, a software engineering intern at Intuit. I will be completeing my BSc. in Fall 2019. 
